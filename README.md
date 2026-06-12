@@ -1,5 +1,5 @@
 # Excel-Project
-Spreadsheet-based data cleaning and analysis project.
+Spreadsheet based data cleaning and analysis project.
 # Excel Data Analysis Project
 
 ## Project Status
