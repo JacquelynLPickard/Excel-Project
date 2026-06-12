@@ -1,6 +1,6 @@
 # Excel-Project
 Spreadsheet-based data cleaning and analysis project.
-# Excel Data Analysis Project (In Progress)
+# Excel Data Analysis Project
 
 ## 📌 Project Status
 This project is currently in development.
