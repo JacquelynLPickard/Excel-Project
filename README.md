@@ -2,10 +2,10 @@
 Spreadsheet-based data cleaning and analysis project.
 # Excel Data Analysis Project
 
-## 📌 Project Status
+## Project Status
 This project is currently in development.
 
-## 🎯 Objective
+## Objective
 To demonstrate my ability to:
 - Clean and organize data in spreadsheets
 - Use formulas and functions
@@ -13,11 +13,11 @@ To demonstrate my ability to:
 - Develop clear data visualizations
 - Present insights in a structured format
 
-## 🛠 Tools
+## Tools
 - Microsoft Excel
 - Google Sheets
 
-## 📊 What This Project Will Include
+## What This Project Will Include
 - Problem statement
 - Raw dataset
 - Data cleaning process
