@@ -1,4 +1,4 @@
-# Excel & Google Sheets Sales Anaysis
+# Excel & Google Sheets Data Anaysis
 Spreadsheet based data cleaning and analysis project.
 # Excel Data Analysis Project
 
